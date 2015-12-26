@@ -4,6 +4,18 @@ Project with examples to teach about Git - FJ-87 Caelum Course
 
 ### Staging files
 
+Show untaged differences since last commit
+
+```bash
+$ git status
+```
+
+If you add the file in **staged** area, you can not see the modifications using git diff. You need to use the follow:
+
+```bash
+$ git diff --staged
+```
+
 Undo last commit, put changes into staging
 
 ```bash
