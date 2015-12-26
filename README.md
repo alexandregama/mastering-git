@@ -16,6 +16,12 @@ If you add the file in **staged** area, you can not see the modifications using 
 $ git diff --staged
 ```
 
+You can unstage the file
+
+```bash
+$ git reset filename HEAD
+```
+
 Undo last commit, put changes into staging
 
 ```bash
