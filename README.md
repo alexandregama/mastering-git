@@ -19,7 +19,7 @@ $ git diff --staged
 You can unstage the file. **HEAD** refer to last commit
 
 ```bash
-$ git reset filename HEAD
+$ git reset HEAD filename
 ```
 
 Undo last commit, put changes into staging. This command moves the commit before **HEAD**
