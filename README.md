@@ -46,13 +46,13 @@ Adding changes from all tracked files
 $ git commit -a -m "New commit message"
 ```
 
-If all that commit are wrong, you can reset the changes into staged area and then checkout all your modifications
+If all that commit are wrong, you can reset the changes into staged area and then checkout all your modifications. Undo last commit and all changes.
 
 ```bash
 $ git reset --hard HEAD^
 ```
 
-You can undo the last commit and all changes
+You can undo the last 2 commit and all changes
 
 ```bash
 $ git reset --hard HEAD^^
