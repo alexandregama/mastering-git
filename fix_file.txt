@@ -1,1 +1,2 @@
 Fix to the file
+Adding another new line on the file fixed
