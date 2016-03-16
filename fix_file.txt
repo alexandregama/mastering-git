@@ -1,2 +1,3 @@
 Fix to the file
 Another text
+Some another new text
