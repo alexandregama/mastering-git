@@ -1,3 +1,4 @@
 Some text
 Another great message
 Some new text into file.txt
+New text
