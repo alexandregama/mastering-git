@@ -5,3 +5,4 @@ New text
 Text on master
 Master text 1
 Writing a comment
+Writing some text
