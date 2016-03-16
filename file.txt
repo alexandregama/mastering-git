@@ -3,3 +3,4 @@ Another great message
 Some new text into file.txt
 New text
 Text on master
+Master text 1
